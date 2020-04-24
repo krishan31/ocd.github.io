@@ -1,6 +1,5 @@
-Thanks for downloading this theme!
+ Name: OCD is a suggestion platform for discovering places, events and photograhers community. 
+ 
+ OCD is a event based company which
+ URL: https://krishan31.github.io/ocd.github.io/
 
-Theme Name: Baker
-Theme URL: https://bootstrapmade.com/baker-free-onepage-bootstrap-theme/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
